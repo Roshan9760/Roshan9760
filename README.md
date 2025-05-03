@@ -30,13 +30,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="roshanug20" height="30" width="40" />
 </a>
 
-<a href="https://www.naukri.com/code360/profile/ROSHAN_d6e5" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="CodeStudio" height="30" width="40" />
-</a>
 
-<a href="https://www.hackerrank.com/profile/Roshan_97" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="Roshan_97" height="30" width="40" />
-</a>
 
 
 </p>

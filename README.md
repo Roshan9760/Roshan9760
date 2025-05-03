@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan9760&label=Profile%20views&color=0e75b6&style=flat" alt="roshan9760" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning , Date Analytics And Also Try To Be Consistent with DSA**
+- 🌱 I’m currently learning **Java, Spring Boot, and building robust backend applications And Also Try To Be Consistent with DSA**
+
 
 
 <img align="right" alt="coding"  width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -36,6 +37,7 @@
 <a href="https://www.hackerrank.com/profile/Roshan_97" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="Roshan_97" height="30" width="40" />
 </a>
+
 
 </p>
 

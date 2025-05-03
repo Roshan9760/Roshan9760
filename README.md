@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Kumar Yadav</h1>
-<h3 align="center">A passionate MERN Stack Developer From India</h3>
+<h3 align="center">A Passionate Software Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan9760&label=Profile%20views&color=0e75b6&style=flat" alt="roshan9760" /> </p>
 
@@ -17,9 +17,26 @@
 
 <h3 align="left">Coding Profiles</h3>
 <p align="left">
-        <a href="https://www.codechef.com/users/rj_978" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rj_978" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/roshankumar_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="roshankumar_9" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/roshanug20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="roshanug20" height="30" width="40" /></a>
+        <a href="https://www.codechef.com/users/rj_978" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rj_978" height="30" width="40" />
+</a>
+
+<a href="https://www.leetcode.com/roshankumar_9" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="roshankumar_9" height="30" width="40" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/roshanug20" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="roshanug20" height="30" width="40" />
+</a>
+
+<a href="https://www.naukri.com/code360/profile/ROSHAN_d6e5" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="CodeStudio" height="30" width="40" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/Roshan_97" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="Roshan_97" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
